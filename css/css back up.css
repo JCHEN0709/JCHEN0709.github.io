@@ -1,0 +1,56 @@
+/*  COLOR SCHEME
+
+
+*/
+header {
+      background-color:ebe7e3;
+      color:white;
+      test-align:center;
+      padding:5px;
+   		}
+nav {
+      line-height: 30px;
+      background-color:#eeeeee;
+      height:150px;
+      width:100px;
+      float:left;
+      padding:5px;
+   }
+section {
+      width:350px;
+      float:left;
+      padding:10px;
+}
+
+h1, h3, h5 {
+	color: #a6a3a4;
+	margin-bottom: 18px;
+}
+
+a {
+	front-weight: bold;
+}
+
+nav a {
+
+	font-weight: bold;
+	color: #a5a29b;
+	text-decoration: none
+}
+
+img:hover {
+	border: solid 3px;
+    color: #d6c9d4;
+
+}
+
+.btn {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 0 0 0 20px;
+    
+}
+
+a:hover {
+    background-color: #b9b8bb;
+}
