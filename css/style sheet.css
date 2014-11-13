@@ -1,0 +1,129 @@
+body {
+  color: white;
+}
+
+h1 {
+top: 15px;
+left: 0;
+width: 100%;
+color: "#fff";
+margin-top: 45px;
+padding:3px;
+}
+
+h1 span {
+
+text-decoration: white
+font: bold 18px/35px;
+letter-spacing: 2px;
+padding-right: 15px;
+padding-left: 2px;
+padding-top: 2px;
+padding-bottom: 4px;
+margin: 34px;
+font-size: 44px;
+font-family: Tahoma, Geneva, Lucida;
+
+}
+
+h2 span {
+
+color: white;
+font-size: 18px;
+margin-top: 450px;
+margin-left: 45px;
+margin-right:2px;
+border: 1px solid white;
+width: 32%;
+padding: 2px 2px ;
+float:right;
+
+}
+
+
+
+.divwrapper {
+position: absolute;
+margin-top:  430px;
+left: 10px;
+font-size: 12px;
+
+
+}
+
+#divLine {
+width: 700px;
+background: white;
+
+}
+
+#divlinks {
+ width: 23px;
+ background: grey;
+
+
+}
+
+#divNav {
+   width:384px;
+   height:36px;
+
+
+}
+
+#divNav ul {
+  list-style-type: none;
+
+}
+
+#divNav ul li {
+   float:left;
+
+}
+
+#divNav ul li a {
+  display: block;
+  height:25px;
+  background-color:orange;
+  padding-left: 10px;
+  padding-right:10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 15px;
+  color: white;
+  text-align: center
+  list-style-type: none;
+   margin-top: -12px;
+   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   
+}
+
+
+
+a:hover {
+  color: red;
+  background: black;
+  }
+
+
+.columns2 {
+background-color: red;
+width: 33%;
+float: left;
+}
+
+.columns-right {
+float: right;
+
+}
+
+footer {
+
+clear: both;
+color: white;
+
+}
+
+
+
+
